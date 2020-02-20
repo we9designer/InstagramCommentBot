@@ -1,1 +1,1 @@
-web: python3 comment.py
+web: python comment.py
