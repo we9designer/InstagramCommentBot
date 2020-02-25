@@ -12,8 +12,8 @@ def print_same_line(text):
 
 while True:
 	website = "https://www.instagram.com/"
-	username = "mybotforyou"
-	password = "kam125486"
+	username = "YOUR USERNAME"
+	password = "YOUR PASSWORD"
 	message = "YOUR MESSAGE"
 
 
